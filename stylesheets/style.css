@@ -372,7 +372,7 @@ select,
 textarea,
 a {
   color: #222;
-  font-family: 'sansation_lightlight';
+  font-family: 'sansation_lightlight', Arial, Helvetica sans-serif;
 }
 body {
   font-size: 1em;
@@ -523,7 +523,7 @@ body {
   margin: 0 auto;
 }
 .app-header-style .app-header-text-style h1 {
-  font-family: 'sansation_lightlight';
+  font-family: 'sansation_lightlight', Arial, Helvetica sans-serif;
   font-size: 60px;
   overflow: hidden;
   width: auto;
@@ -673,7 +673,7 @@ h2 {
     margin: 0 auto;
   }
   .app-header-style .app-header-text-style h1 {
-    font-family: 'sansation_lightlight';
+    font-family: 'sansation_lightlight', Arial, Helvetica sans-serif;
     font-size: 45px;
     overflow: hidden;
     width: auto;
@@ -704,7 +704,7 @@ h2 {
     margin: 0 auto;
   }
   .app-header-style .app-header-text-style h1 {
-    font-family: 'sansation_lightlight';
+    font-family: 'sansation_lightlight', Arial, Helvetica sans-serif;
     font-size: 30px;
     overflow: hidden;
     width: auto;
